@@ -5,7 +5,7 @@
     },
     "manifest_version": 3,
     "version": "0.1",
-    "description": "Rotates video, 90deg, 180deg, 270deg or standard",
+    "description": "Rotates current video, 90deg, 180deg, 270deg or standard",
     "permissions": [
       "activeTab",
       "scripting",
