@@ -1,4 +1,4 @@
-## flip-video
+## rotate-video
 Chrome extension
 
 Rotates current video with 90deg each click.
