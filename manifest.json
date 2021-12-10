@@ -1,7 +1,10 @@
 {
     "name": "Rotate Video",
     "action": {
-        "default_popup": "popup.html"
+        "default_popup": "popup.html",
+        "default_icon": {
+          "32": "screen-rotate.png"
+        }
     },
     "manifest_version": 3,
     "version": "0.1",
